@@ -1,2 +1,3 @@
-# Weather_Data_Analysis
-Analyzing Weather data including Rainfall, Humidity and Temperature Analysis.
+# Weather Data Analysis
+Analyzing Weather data including Rainfall, Humidity and Temperature Analysis. 
+AWS + Snowflake + PowerBI
